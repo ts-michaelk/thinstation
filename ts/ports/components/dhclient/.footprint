@@ -21,7 +21,6 @@ drwxr-xr-x	root/root	usr/include/omapip/
 -rw-r--r--	root/root	usr/include/omapip/trace.h
 drwxr-xr-x	root/root	usr/lib/
 -rw-r--r--	root/root	usr/lib/libdhcpctl.a
--rw-r--r--	root/root	usr/lib/libdst.a
 -rw-r--r--	root/root	usr/lib/libomapi.a
 drwxr-xr-x	root/root	usr/sbin/
 -rwxr-xr-x	root/root	usr/sbin/dhclient
