@@ -1,4 +1,4 @@
-#5ace6c290e3aac0047205c34f7bb8ff4  .dna
+#c429b11a97eea04f19e1e72e1aa21b57  .dna
 rm /ts/build/packages/locale-ru_RU/lib/gconv/KOI8-R.so
 rm /ts/build/packages/locale-ru_RU/lib/gconv/UNICODE.so
 rm /ts/build/packages/locale-ru_RU/lib/gconv/CP1252.so
@@ -12,7 +12,7 @@ rm /ts/build/packages/locale-ru_RU/lib/gconv/UTF-16.so
 rm /ts/build/packages/locale-ru_RU/lib/gconv/ISO8859-5.so
 rm /ts/build/packages/locale-ru_RU/lib/gconv/IBM437.so
 rm /ts/build/packages/locale-ru_RU/lib/gconv/CP1251.so
-rm /ts/build/packages/locale-ru_RU/lib/kbd/consolefonts/default8x16.psfu.gz
+rm /ts/build/packages/locale-ru_RU/lib/kbd/consolefonts/LatArCyrHeb-16.psfu.gz
 rm /ts/build/packages/locale-ru_RU/lib/kbd/keymaps/include/linux-keys-bare.inc
 rm /ts/build/packages/locale-ru_RU/lib/kbd/keymaps/include/euro1.map.gz
 rm /ts/build/packages/locale-ru_RU/lib/kbd/keymaps/include/compose.latin1
